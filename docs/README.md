@@ -13,7 +13,7 @@ config:
       text: Code · Create · Conquer
       actions:
         - theme: brand
-          text: 博客
+          text: 🤡 博客
           link: /blog/
         - theme: alt
           text: Github →
@@ -44,4 +44,10 @@ config:
           跨界思维：如何用游戏开发的思维优化 Web 体验？如何用 Python 辅助日常开发？
       - title: 💡 理念
         description: 代码不仅是指令，更是创造世界的魔法。在这里，记录每一次 Debug 的成长，分享每一行 Code 的价值。
+  - type: custom
 ---
+
+<CardGrid>
+  <LinkCard icon="mdi:github" title="仓库地址" href="/">点击进入此网站 GITHUB 仓库地址</LinkCard>
+  <LinkCard icon="logos:github-actions" title="Steve29794-github" href="/">点击进入我的 GITHUB 地址</LinkCard>
+</CardGrid>
